@@ -1,5 +1,6 @@
 ## Video explanation: 
 https://youtu.be/7IX84K9g23U
+## Only for reading purposes strictly
 
 ----
 # Low Level System Design - Parking lot 
